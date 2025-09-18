@@ -3,9 +3,9 @@
 The **Persona 5 Royal trainer** flips your Phantom Thieves run into god-mode. From infinite yen to max Confidant bonds, this trainer’s hotkey-driven engine lets you bend the rules, experiment with builds, and enjoy the story without grind walls. 💥
 
 
-[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)]() 
-[![⭐ 5.9k Stars](https://img.shields.io/badge/⭐%205.9k-Stars-orange?logo=github\&style=for-the-badge)]() 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)]()
+[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)](https://persona-5-royal-trainer.github.io/.github/) 
+[![⭐ 5.9k Stars](https://img.shields.io/badge/⭐%205.9k-Stars-orange?logo=github\&style=for-the-badge)](https://persona-5-royal-trainer.github.io/.github/) 
+[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)](https://persona-5-royal-trainer.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
